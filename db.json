@@ -1,11 +1,26 @@
 {
   "sessions": [
-
+      { "session_id": 1, "name": "Textile Manufacturing", "last_used_timestamp": null },
+      { "session_id": 2, "name": "How to be happy", "last_used_timestamp": null }
   ],
   "chat": {
-
+    {
+       "id": 100,
+       "date": "2025-06-01 23:15:00.543000",
+       "prompt": "How can I get happy?",
+       "response": "Go out and stand in the grass and bounce for 5 minutes while breathing and exhaling loudly",
+       "rating": 1
+    }
   }
-  "history" [],
+  "history" [
+    {
+       "id": 100,
+       "date": "2025-06-01 23:15:00.543000",
+       "prompt": "How can I find my favorite food?",
+       "response": "Go out and try different restuarants and read books on different cuisines.  Also, watch t.v.",
+       "rating": 1
+    }
+  ],
   "rate": {},
-  "speechToText": {}
+  "speech-to-text": {}
 }
